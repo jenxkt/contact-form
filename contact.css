@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(222, 212, 211);
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -190px;
+}
+
+
+fieldset{
+    border: 1px solid black;
+    height: 500px;
+    width: 900px;
+    margin:center;
+    align-items: center;
+    
+    display:inline-block
+
+}
+.contact{
+    color: rgb(78, 99, 81);
+    margin: auto;
+    font-size: 30px;
+    font-weight: bold;
+    float:center;
+}
